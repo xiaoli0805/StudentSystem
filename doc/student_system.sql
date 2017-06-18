@@ -1,0 +1,1 @@
+CREATE DATABASE student_system DEFAULT CHARACTER SET utf8;
